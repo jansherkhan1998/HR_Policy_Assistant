@@ -834,7 +834,3 @@ st.caption(
     "HR Policy Assistant • RAG • FAISS • Sentence Transformers "
     "• PyMuPDF • Groq GPT-OSS 20B" 
 )
-    "HR Policy Assistant • RAG • FAISS • Sentence Transformers "
-    "• PyMuPDF • Groq GPT-OSS 20B"
-)
-```
