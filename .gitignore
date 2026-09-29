@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]*
+.pyo 
+
+# Virtual environments 
+.venv/ 
+venv/
+env/ 
+
+# Environment variables 
+.env 
+.env.* 
+secrets.toml 
+
+# Streamlit 
+secrets 
+.streamlit/secrets.toml
+
+# Local vector/index files 
+*.faiss 
+*.index 
+*.pkl
+
+# Local PDF files 
+*.pdf 
+
+# Operating system files 
+.DS_Store 
+Thumbs.db
