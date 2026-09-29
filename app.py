@@ -829,9 +829,11 @@ if st.session_state.document_processed:
 # FOOTER
 # ============================================================
 
-st.divider()
-
-st.caption(
+st.divider() 
+st.caption( 
+    "HR Policy Assistant • RAG • FAISS • Sentence Transformers "
+    "• PyMuPDF • Groq GPT-OSS 20B" 
+)
     "HR Policy Assistant • RAG • FAISS • Sentence Transformers "
     "• PyMuPDF • Groq GPT-OSS 20B"
 )
